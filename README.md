@@ -14,7 +14,7 @@ The Health Care App is a Java-based mobile application that allows users to acce
 
 To install the Health Care App, follow these steps:
 
-1. Clone the repository from Github: **`[https://github.com/<username>/<repository-name>.git](https://github.com/Kiransala/HealthMate24.git)`**
+1. Clone the repository from Github: **`[https://github.com/Kiransala/HealthMate24.git]`**
 2. Open the project in Android Studio.
 3. Build the project and run the app on an emulator or physical device.
 
